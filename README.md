@@ -2,6 +2,8 @@
 
 In this Assignment, You need to set your own goals. They need to be agreed on with your lecturer, though.
 
+Upload a document named `GOALS.md` to specify your goals before working on the project.
+
 ## Requirements:
 
 1. Your Application needs to face a Pathfinding Problem of some kind.
