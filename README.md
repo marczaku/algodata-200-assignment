@@ -35,6 +35,10 @@ There is no opponent that can do unexpected Moves (Easy)
 There is always a solution
 - Else: Your algorithm has to handle unsolvable problems.
 
+### 1.1 Create a GOALS.md File
+
+Create a GOALS.md File. Describe your problem and your goals with this assignment in the Document. Upload it before working on further tasks.
+
 ### 2. Develop a Data Model for the Start-State
 
 - What defines any state of your problem?
