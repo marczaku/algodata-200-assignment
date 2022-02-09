@@ -12,6 +12,7 @@ Upload a document named `GOALS.md` to specify your goals before working on the p
 4. Your Application needs to use a Pathfinding Algorithm of your choice to solve the Problem.
 5. Your Application needs to show the solution of your Problem. The Path of the solution is important. Not just the Final Step. Consider running it Step by Step (`WaitForSeconds`) or displaying the full Path, if applicable.
 6. All above points need to document in your Repository's `README.md`. What is the problem and what Algorithm & Data Structure did you choose, due to what circumstances? Would there have been alternatives?
+7. Reference "borrowed" Code accordingly. Name the sources of the Code that you reuse for your purpose.
 
 ## Grading:
 
