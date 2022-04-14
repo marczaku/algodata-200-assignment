@@ -88,3 +88,7 @@ As specificed in the Requirements.
 - Can you make sure that your generated States are solvable?
 - Can you make it Playable with a "Solve From Here"-Button?
 - Maybe you can make a "Suggest Next Move"-Button?
+
+## Resources:
+- Please don't follow the YouTube-Tutorial by Sebastian Lague. The introduction to A* is great, but the provided code is over-engineered and in some cases plain wrong.
+- Loom Video: British Bulldog
